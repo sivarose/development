@@ -1,0 +1,1 @@
+keytool -importkeystore -srckeystore "C:\Users\mr79026\Downloads\Nexus to Artifactory\Citi_PROD_CAs_JKS\cacerts.jks" -srcstorepass changeit -destkeystore "C:\Users\mr79026\Desktop\jre1.8.0_171\lib\security\cacerts" -deststorepass changeit
